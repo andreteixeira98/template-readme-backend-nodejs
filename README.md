@@ -1,5 +1,5 @@
 # template-readme-backend-nodejs
-template of the readme for backend in nodeJS
+  Template of the readme for backend in NodeJS
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
