@@ -11,12 +11,11 @@ template of the readme for backend in nodeJS
 
 <!-- PROJECT LOGO -->
 
-<img src="" alt='image from project' />
+<img src="" alt='Logo of the project' />
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
+
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -36,7 +35,7 @@ template of the readme for backend in nodeJS
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-</details>
+
 
 
 
@@ -70,10 +69,12 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/andreteixeira98/template-readme-backend-nodejs.git
+   git clone https://github.com/andreteixeira98/template-readme-backend-nodejs.git <Project_Name>
    ```
 2. Installation Project Dependencies
    ```sh
+   cd <Project_Name>
+   
    npm install
 
    #or
