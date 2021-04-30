@@ -11,7 +11,7 @@
 
 <!-- PROJECT LOGO -->
 
-<img src="" alt='Logo of your project' />
+<img src="" alt='Logo of the project' />
 
 
 <!-- TABLE OF CONTENTS -->
@@ -42,64 +42,65 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+  [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
-Technologies used to create the project
+  Technologies used to create the project
 
-* [NodeJS](https://nodejs.org/en/)
-* [ExpressJS](https://expressjs.com/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [TypeORM](https://typeorm.io/#/)
-* [SQLite3](https://www.npmjs.com/package/sqlite3/)
+  * [NodeJS](https://nodejs.org/en/)
+  * [ExpressJS](https://expressjs.com/)
+  * [TypeScript](https://www.typescriptlang.org/)
+  * [TypeORM](https://typeorm.io/#/)
+  * [SQLite3](https://www.npmjs.com/package/sqlite3/)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+  This is an example of how you may give instructions on setting up your project locally.
+  To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* It`s need installer a package manager like [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) or [npm](https://www.npmjs.com/get-npm)
+  * It's need installer a package manager like [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) or [npm](https://www.npmjs.com/get-npm)
 
-* Create a ```.env``` file in the root directory  of your project. Add environment-specific variables on new lines in the form of ```NAME=VALUE```. Like:
-```
-PORT=4000
-```
+  * Create a ```.env``` file in the root directory  of your project. Add environment-specific variables on new lines in the form of ```NAME=VALUE```. Like:
+
+    ```
+    PORT=4000
+    ```
 
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/andreteixeira98/template-readme-backend-nodejs.git <Project_Name>
-   ```
-2. Installation Project Dependencies
-   ```sh
-   #Enter in directory of your project
-   cd <Project_Name>
-   
-   #Installation with npm
-   npm install
+  1. Clone the repo
+    ```sh
+    git clone https://github.com/andreteixeira98/template-readme-backend-nodejs.git <Project_Name>
+    ```
+  2. Installation Project Dependencies
+    ```sh
+    #Enter in directory of your project
+    cd <Project_Name>
+    
+    #Installation with npm
+    npm install
 
-   #Installation with yarn
-   yarn
-   ```
+    #Installation with yarn
+    yarn
+    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Run project
-  ```sh
-  yarn dev
+  1. Run project
+    ```sh
+    #run with yarn
+    yarn dev
 
-  #or
-
-  npm run dev
-  ```
-2. Visit http://localhost:4000 to view your application.
+    #run with npm
+    npm run dev
+    ```
+  2. Visit http://localhost:4000 to view your application.
 
 
 <!-- LICENSE -->
@@ -110,15 +111,15 @@ PORT=4000
 <!-- CONTACT -->
 ## Contact
 
-André Teixeira - [Facebook](https://www.facebook.com/andreteixeiravaz) - andreteixeiracbjr@gmail.com
+  André Teixeira - [Facebook](https://www.facebook.com/andreteixeiravaz) - andreteixeiracbjr@gmail.com
 
-Project Link: [template-readme-backend-nodejs](https://github.com/andreteixeira98/template-readme-backend-nodejs)
+  Project Link: [template-readme-backend-nodejs](https://github.com/andreteixeira98/template-readme-backend-nodejs)
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [UUID](https://www.npmjs.com/package/uuid)
-* [YUP](https://www.npmjs.com/package/yup)
+  * [UUID](https://www.npmjs.com/package/uuid)
+  * [YUP](https://www.npmjs.com/package/yup)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
