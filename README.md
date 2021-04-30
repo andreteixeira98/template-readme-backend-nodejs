@@ -74,10 +74,13 @@
 ### Installation
 
   1. Clone the repo
+
     ```sh
     git clone https://github.com/andreteixeira98/template-readme-backend-nodejs.git <Project_Name>
     ```
+
   2. Installation Project Dependencies
+
     ```sh
     #Enter in directory of your project
     cd <Project_Name>
@@ -93,6 +96,7 @@
 ## Usage
 
   1. Run project
+
     ```sh
     #run with yarn
     yarn dev
@@ -100,6 +104,7 @@
     #run with npm
     npm run dev
     ```
+    
   2. Visit http://localhost:4000 to view your application.
 
 
