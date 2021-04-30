@@ -11,7 +11,7 @@
 
 <!-- PROJECT LOGO -->
 
-<img src="" alt='Logo of the project' />
+<img src="" alt='Logo of your project' />
 
 
 <!-- TABLE OF CONTENTS -->
@@ -62,7 +62,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* it is necessary to install a package manager like [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) or [npm](https://www.npmjs.com/get-npm)
+* It`s need installer a package manager like [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) or [npm](https://www.npmjs.com/get-npm)
+
+* Create a ```.env``` file in the root directory  of your project. Add environment-specific variables on new lines in the form of ```NAME=VALUE```. Like:
+```
+PORT=4000
+```
 
 
 ### Installation
@@ -73,12 +78,13 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Installation Project Dependencies
    ```sh
+   #Enter in directory of your project
    cd <Project_Name>
    
+   #Installation with npm
    npm install
 
-   #or
-
+   #Installation with yarn
    yarn
    ```
 
